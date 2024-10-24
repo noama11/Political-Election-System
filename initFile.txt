@@ -1,0 +1,35 @@
+Politicians:
+Dunald Trump 1111 100 R L
+Alexandria Ocasio-Cortez 3111 50 D L
+Ilhan Abdullahi-Omar 3112 40 D L
+Steve Scalise 1112 40 R L
+Judy Chu 4112 14 D S
+Barbara Lee 4113 2 D S
+Nancy Pelosi 4114 1 D S
+Liz Cheney 1113 29 R L
+Jason Smith 1116 14 R L
+Gary Palmer 1117 21 R L
+Michael Conaway 2111 10 R S
+Kay Granger 2112 4 R S
+Mac Thornberry 2113 9 R S
+Steve Womack 2114 11 R S
+Virginia Foxx 2115 21 R S
+Greg Walden 2116 14 R S
+Kenny Marchant 2117 21 R S
+Ayanna Soyini-Pressley 3113 39 D L
+Tom Emmer 1114 11 R L
+Mark Walker 1115 21 R L
+Rashida Harbi-Tlaib 3114 11 D L
+Tom O'Halleran 3115 21 D L
+Jared Huffman 3116 54 D L
+Hillary Clinton 3117 81 D L
+Jim Costa 4111 18 D S
+Mike Levin 4115 20 D S
+Juan Vargas 4116 17 D L
+Ted Detuch 4117 29 D S
+Parties:
+Farmers R
+Republicans_party R
+Democratic_party D
+Peasants D
+Fishermen D
